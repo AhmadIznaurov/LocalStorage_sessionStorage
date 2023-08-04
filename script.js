@@ -41,3 +41,6 @@
 
 const lincode = localStorage.getItem('course'); // If you want to get value 'null' you need to clear the localStorage and then to check log
 console.log(lincode === null);
+
+
+console.log(object);
